@@ -1,0 +1,4253 @@
+{
+  "characteristics_list": [
+    {
+      "compile": {
+        "binary_size": 369128, 
+        "compilation_success": "yes", 
+        "compilation_success_bool": true, 
+        "compilation_time": 67.09159088134766, 
+        "compilation_time_with_module": 68.89030313491821, 
+        "joined_compiler_flags": "-O3", 
+        "md5_sum": "124bffe457710836f49cbe007b901036", 
+        "obj_size": 1211240, 
+        "obj_sizes": {
+          "GraphUtils.o": 432600, 
+          "Utils.o": 325016, 
+          "benchmark.o": 70208, 
+          "mobilenets.o": 383416
+        }, 
+        "program_git_hash": "d4fbcc6046ebea8d4007c5e108772d6fd65e6a6e"
+      }, 
+      "run": {
+        "accuracy_top1": 0.722, 
+        "accuracy_top5": 0.896, 
+        "execution_time": 47.50967, 
+        "execution_time_sum": 65.288193, 
+        "execution_time_with_module": 73.82485604286194, 
+        "frame_predictions": [
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 65, 
+            "class_topmost": 65, 
+            "file_name": "ILSVRC2012_val_00000001.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 970, 
+            "class_topmost": 795, 
+            "file_name": "ILSVRC2012_val_00000002.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 230, 
+            "class_topmost": 230, 
+            "file_name": "ILSVRC2012_val_00000003.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 809, 
+            "class_topmost": 809, 
+            "file_name": "ILSVRC2012_val_00000004.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 516, 
+            "class_topmost": 431, 
+            "file_name": "ILSVRC2012_val_00000005.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 57, 
+            "class_topmost": 65, 
+            "file_name": "ILSVRC2012_val_00000006.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 334, 
+            "class_topmost": 334, 
+            "file_name": "ILSVRC2012_val_00000007.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 415, 
+            "class_topmost": 430, 
+            "file_name": "ILSVRC2012_val_00000008.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 674, 
+            "class_topmost": 674, 
+            "file_name": "ILSVRC2012_val_00000009.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 332, 
+            "class_topmost": 154, 
+            "file_name": "ILSVRC2012_val_00000010.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 109, 
+            "class_topmost": 109, 
+            "file_name": "ILSVRC2012_val_00000011.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 286, 
+            "class_topmost": 286, 
+            "file_name": "ILSVRC2012_val_00000012.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 370, 
+            "class_topmost": 370, 
+            "file_name": "ILSVRC2012_val_00000013.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 757, 
+            "class_topmost": 757, 
+            "file_name": "ILSVRC2012_val_00000014.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 595, 
+            "class_topmost": 595, 
+            "file_name": "ILSVRC2012_val_00000015.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 147, 
+            "class_topmost": 147, 
+            "file_name": "ILSVRC2012_val_00000016.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 108, 
+            "class_topmost": 1, 
+            "file_name": "ILSVRC2012_val_00000017.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 23, 
+            "class_topmost": 21, 
+            "file_name": "ILSVRC2012_val_00000018.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 478, 
+            "class_topmost": 478, 
+            "file_name": "ILSVRC2012_val_00000019.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 517, 
+            "class_topmost": 517, 
+            "file_name": "ILSVRC2012_val_00000020.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 334, 
+            "class_topmost": 334, 
+            "file_name": "ILSVRC2012_val_00000021.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 173, 
+            "class_topmost": 676, 
+            "file_name": "ILSVRC2012_val_00000022.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 948, 
+            "class_topmost": 948, 
+            "file_name": "ILSVRC2012_val_00000023.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 727, 
+            "class_topmost": 727, 
+            "file_name": "ILSVRC2012_val_00000024.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 23, 
+            "class_topmost": 23, 
+            "file_name": "ILSVRC2012_val_00000025.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 846, 
+            "class_topmost": 846, 
+            "file_name": "ILSVRC2012_val_00000026.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 270, 
+            "class_topmost": 270, 
+            "file_name": "ILSVRC2012_val_00000027.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 167, 
+            "class_topmost": 264, 
+            "file_name": "ILSVRC2012_val_00000028.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 55, 
+            "class_topmost": 59, 
+            "file_name": "ILSVRC2012_val_00000029.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 858, 
+            "class_topmost": 858, 
+            "file_name": "ILSVRC2012_val_00000030.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 324, 
+            "class_topmost": 324, 
+            "file_name": "ILSVRC2012_val_00000031.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 573, 
+            "class_topmost": 573, 
+            "file_name": "ILSVRC2012_val_00000032.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 150, 
+            "class_topmost": 357, 
+            "file_name": "ILSVRC2012_val_00000033.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 981, 
+            "class_topmost": 981, 
+            "file_name": "ILSVRC2012_val_00000034.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 586, 
+            "class_topmost": 586, 
+            "file_name": "ILSVRC2012_val_00000035.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 887, 
+            "class_topmost": 887, 
+            "file_name": "ILSVRC2012_val_00000036.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 32, 
+            "class_topmost": 26, 
+            "file_name": "ILSVRC2012_val_00000037.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 398, 
+            "class_topmost": 398, 
+            "file_name": "ILSVRC2012_val_00000038.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 777, 
+            "class_topmost": 777, 
+            "file_name": "ILSVRC2012_val_00000039.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 74, 
+            "class_topmost": 78, 
+            "file_name": "ILSVRC2012_val_00000040.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 516, 
+            "class_topmost": 678, 
+            "file_name": "ILSVRC2012_val_00000041.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 756, 
+            "class_topmost": 756, 
+            "file_name": "ILSVRC2012_val_00000042.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 129, 
+            "class_topmost": 129, 
+            "file_name": "ILSVRC2012_val_00000043.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 198, 
+            "class_topmost": 198, 
+            "file_name": "ILSVRC2012_val_00000044.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 256, 
+            "class_topmost": 256, 
+            "file_name": "ILSVRC2012_val_00000045.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 725, 
+            "class_topmost": 725, 
+            "file_name": "ILSVRC2012_val_00000046.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 565, 
+            "class_topmost": 565, 
+            "file_name": "ILSVRC2012_val_00000047.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 167, 
+            "class_topmost": 167, 
+            "file_name": "ILSVRC2012_val_00000048.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 717, 
+            "class_topmost": 717, 
+            "file_name": "ILSVRC2012_val_00000049.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 394, 
+            "class_topmost": 389, 
+            "file_name": "ILSVRC2012_val_00000050.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 92, 
+            "class_topmost": 92, 
+            "file_name": "ILSVRC2012_val_00000051.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 29, 
+            "class_topmost": 29, 
+            "file_name": "ILSVRC2012_val_00000052.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 844, 
+            "class_topmost": 844, 
+            "file_name": "ILSVRC2012_val_00000053.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 591, 
+            "class_topmost": 591, 
+            "file_name": "ILSVRC2012_val_00000054.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 358, 
+            "class_topmost": 358, 
+            "file_name": "ILSVRC2012_val_00000055.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 468, 
+            "class_topmost": 468, 
+            "file_name": "ILSVRC2012_val_00000056.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 259, 
+            "class_topmost": 154, 
+            "file_name": "ILSVRC2012_val_00000057.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 994, 
+            "class_topmost": 994, 
+            "file_name": "ILSVRC2012_val_00000058.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 872, 
+            "class_topmost": 872, 
+            "file_name": "ILSVRC2012_val_00000059.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 588, 
+            "class_topmost": 588, 
+            "file_name": "ILSVRC2012_val_00000060.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 474, 
+            "class_topmost": 735, 
+            "file_name": "ILSVRC2012_val_00000061.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 183, 
+            "class_topmost": 221, 
+            "file_name": "ILSVRC2012_val_00000062.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 107, 
+            "class_topmost": 107, 
+            "file_name": "ILSVRC2012_val_00000063.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 46, 
+            "class_topmost": 46, 
+            "file_name": "ILSVRC2012_val_00000064.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 842, 
+            "class_topmost": 602, 
+            "file_name": "ILSVRC2012_val_00000065.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 390, 
+            "class_topmost": 390, 
+            "file_name": "ILSVRC2012_val_00000066.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 101, 
+            "class_topmost": 101, 
+            "file_name": "ILSVRC2012_val_00000067.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 887, 
+            "class_topmost": 887, 
+            "file_name": "ILSVRC2012_val_00000068.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 870, 
+            "class_topmost": 870, 
+            "file_name": "ILSVRC2012_val_00000069.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 841, 
+            "class_topmost": 903, 
+            "file_name": "ILSVRC2012_val_00000070.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 467, 
+            "class_topmost": 391, 
+            "file_name": "ILSVRC2012_val_00000071.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 149, 
+            "class_topmost": 149, 
+            "file_name": "ILSVRC2012_val_00000072.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 21, 
+            "class_topmost": 21, 
+            "file_name": "ILSVRC2012_val_00000073.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 476, 
+            "class_topmost": 476, 
+            "file_name": "ILSVRC2012_val_00000074.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 80, 
+            "class_topmost": 80, 
+            "file_name": "ILSVRC2012_val_00000075.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 424, 
+            "class_topmost": 424, 
+            "file_name": "ILSVRC2012_val_00000076.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 159, 
+            "class_topmost": 159, 
+            "file_name": "ILSVRC2012_val_00000077.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 275, 
+            "class_topmost": 275, 
+            "file_name": "ILSVRC2012_val_00000078.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 175, 
+            "class_topmost": 175, 
+            "file_name": "ILSVRC2012_val_00000079.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 461, 
+            "class_topmost": 461, 
+            "file_name": "ILSVRC2012_val_00000080.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 970, 
+            "class_topmost": 970, 
+            "file_name": "ILSVRC2012_val_00000081.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 160, 
+            "class_topmost": 160, 
+            "file_name": "ILSVRC2012_val_00000082.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 788, 
+            "class_topmost": 788, 
+            "file_name": "ILSVRC2012_val_00000083.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 58, 
+            "class_topmost": 75, 
+            "file_name": "ILSVRC2012_val_00000084.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 479, 
+            "class_topmost": 436, 
+            "file_name": "ILSVRC2012_val_00000085.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 498, 
+            "class_topmost": 498, 
+            "file_name": "ILSVRC2012_val_00000086.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 369, 
+            "class_topmost": 364, 
+            "file_name": "ILSVRC2012_val_00000087.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 28, 
+            "class_topmost": 25, 
+            "file_name": "ILSVRC2012_val_00000088.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 487, 
+            "class_topmost": 487, 
+            "file_name": "ILSVRC2012_val_00000089.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 50, 
+            "class_topmost": 50, 
+            "file_name": "ILSVRC2012_val_00000090.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 270, 
+            "class_topmost": 270, 
+            "file_name": "ILSVRC2012_val_00000091.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 383, 
+            "class_topmost": 384, 
+            "file_name": "ILSVRC2012_val_00000092.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 366, 
+            "class_topmost": 379, 
+            "file_name": "ILSVRC2012_val_00000093.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 780, 
+            "class_topmost": 484, 
+            "file_name": "ILSVRC2012_val_00000094.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 373, 
+            "class_topmost": 373, 
+            "file_name": "ILSVRC2012_val_00000095.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 705, 
+            "class_topmost": 705, 
+            "file_name": "ILSVRC2012_val_00000096.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 330, 
+            "class_topmost": 330, 
+            "file_name": "ILSVRC2012_val_00000097.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 142, 
+            "class_topmost": 142, 
+            "file_name": "ILSVRC2012_val_00000098.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 949, 
+            "class_topmost": 949, 
+            "file_name": "ILSVRC2012_val_00000099.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 349, 
+            "class_topmost": 349, 
+            "file_name": "ILSVRC2012_val_00000100.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 473, 
+            "class_topmost": 473, 
+            "file_name": "ILSVRC2012_val_00000101.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 159, 
+            "class_topmost": 159, 
+            "file_name": "ILSVRC2012_val_00000102.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 872, 
+            "class_topmost": 872, 
+            "file_name": "ILSVRC2012_val_00000103.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 878, 
+            "class_topmost": 810, 
+            "file_name": "ILSVRC2012_val_00000104.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 201, 
+            "class_topmost": 201, 
+            "file_name": "ILSVRC2012_val_00000105.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 906, 
+            "class_topmost": 906, 
+            "file_name": "ILSVRC2012_val_00000106.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 70, 
+            "class_topmost": 70, 
+            "file_name": "ILSVRC2012_val_00000107.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 486, 
+            "class_topmost": 486, 
+            "file_name": "ILSVRC2012_val_00000108.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 632, 
+            "class_topmost": 632, 
+            "file_name": "ILSVRC2012_val_00000109.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 608, 
+            "class_topmost": 608, 
+            "file_name": "ILSVRC2012_val_00000110.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 122, 
+            "class_topmost": 122, 
+            "file_name": "ILSVRC2012_val_00000111.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 720, 
+            "class_topmost": 949, 
+            "file_name": "ILSVRC2012_val_00000112.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 227, 
+            "class_topmost": 227, 
+            "file_name": "ILSVRC2012_val_00000113.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 686, 
+            "class_topmost": 758, 
+            "file_name": "ILSVRC2012_val_00000114.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 173, 
+            "class_topmost": 173, 
+            "file_name": "ILSVRC2012_val_00000115.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 959, 
+            "class_topmost": 959, 
+            "file_name": "ILSVRC2012_val_00000116.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 638, 
+            "class_topmost": 638, 
+            "file_name": "ILSVRC2012_val_00000117.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 646, 
+            "class_topmost": 729, 
+            "file_name": "ILSVRC2012_val_00000118.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 664, 
+            "class_topmost": 851, 
+            "file_name": "ILSVRC2012_val_00000119.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 645, 
+            "class_topmost": 645, 
+            "file_name": "ILSVRC2012_val_00000120.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 718, 
+            "class_topmost": 449, 
+            "file_name": "ILSVRC2012_val_00000121.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 483, 
+            "class_topmost": 483, 
+            "file_name": "ILSVRC2012_val_00000122.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 852, 
+            "class_topmost": 852, 
+            "file_name": "ILSVRC2012_val_00000123.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 392, 
+            "class_topmost": 115, 
+            "file_name": "ILSVRC2012_val_00000124.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 311, 
+            "class_topmost": 312, 
+            "file_name": "ILSVRC2012_val_00000125.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 457, 
+            "class_topmost": 457, 
+            "file_name": "ILSVRC2012_val_00000126.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 352, 
+            "class_topmost": 352, 
+            "file_name": "ILSVRC2012_val_00000127.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 22, 
+            "class_topmost": 21, 
+            "file_name": "ILSVRC2012_val_00000128.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 934, 
+            "class_topmost": 934, 
+            "file_name": "ILSVRC2012_val_00000129.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 283, 
+            "class_topmost": 283, 
+            "file_name": "ILSVRC2012_val_00000130.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 802, 
+            "class_topmost": 802, 
+            "file_name": "ILSVRC2012_val_00000131.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 553, 
+            "class_topmost": 553, 
+            "file_name": "ILSVRC2012_val_00000132.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 276, 
+            "class_topmost": 276, 
+            "file_name": "ILSVRC2012_val_00000133.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 236, 
+            "class_topmost": 236, 
+            "file_name": "ILSVRC2012_val_00000134.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 751, 
+            "class_topmost": 751, 
+            "file_name": "ILSVRC2012_val_00000135.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 343, 
+            "class_topmost": 344, 
+            "file_name": "ILSVRC2012_val_00000136.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 528, 
+            "class_topmost": 532, 
+            "file_name": "ILSVRC2012_val_00000137.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 328, 
+            "class_topmost": 328, 
+            "file_name": "ILSVRC2012_val_00000138.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 969, 
+            "class_topmost": 969, 
+            "file_name": "ILSVRC2012_val_00000139.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 558, 
+            "class_topmost": 212, 
+            "file_name": "ILSVRC2012_val_00000140.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 163, 
+            "class_topmost": 163, 
+            "file_name": "ILSVRC2012_val_00000141.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 328, 
+            "class_topmost": 328, 
+            "file_name": "ILSVRC2012_val_00000142.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 771, 
+            "class_topmost": 771, 
+            "file_name": "ILSVRC2012_val_00000143.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 726, 
+            "class_topmost": 726, 
+            "file_name": "ILSVRC2012_val_00000144.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 977, 
+            "class_topmost": 977, 
+            "file_name": "ILSVRC2012_val_00000145.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 875, 
+            "class_topmost": 513, 
+            "file_name": "ILSVRC2012_val_00000146.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 265, 
+            "class_topmost": 266, 
+            "file_name": "ILSVRC2012_val_00000147.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 686, 
+            "class_topmost": 686, 
+            "file_name": "ILSVRC2012_val_00000148.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 590, 
+            "class_topmost": 590, 
+            "file_name": "ILSVRC2012_val_00000149.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 975, 
+            "class_topmost": 978, 
+            "file_name": "ILSVRC2012_val_00000150.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 620, 
+            "class_topmost": 620, 
+            "file_name": "ILSVRC2012_val_00000151.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 637, 
+            "class_topmost": 637, 
+            "file_name": "ILSVRC2012_val_00000152.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 39, 
+            "class_topmost": 39, 
+            "file_name": "ILSVRC2012_val_00000153.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 115, 
+            "class_topmost": 110, 
+            "file_name": "ILSVRC2012_val_00000154.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 937, 
+            "class_topmost": 937, 
+            "file_name": "ILSVRC2012_val_00000155.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 272, 
+            "class_topmost": 274, 
+            "file_name": "ILSVRC2012_val_00000156.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 277, 
+            "class_topmost": 278, 
+            "file_name": "ILSVRC2012_val_00000157.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 763, 
+            "class_topmost": 763, 
+            "file_name": "ILSVRC2012_val_00000158.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 789, 
+            "class_topmost": 789, 
+            "file_name": "ILSVRC2012_val_00000159.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 646, 
+            "class_topmost": 646, 
+            "file_name": "ILSVRC2012_val_00000160.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 213, 
+            "class_topmost": 255, 
+            "file_name": "ILSVRC2012_val_00000161.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 493, 
+            "class_topmost": 894, 
+            "file_name": "ILSVRC2012_val_00000162.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 647, 
+            "class_topmost": 647, 
+            "file_name": "ILSVRC2012_val_00000163.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 504, 
+            "class_topmost": 504, 
+            "file_name": "ILSVRC2012_val_00000164.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 937, 
+            "class_topmost": 937, 
+            "file_name": "ILSVRC2012_val_00000165.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 687, 
+            "class_topmost": 687, 
+            "file_name": "ILSVRC2012_val_00000166.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 781, 
+            "class_topmost": 781, 
+            "file_name": "ILSVRC2012_val_00000167.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 666, 
+            "class_topmost": 666, 
+            "file_name": "ILSVRC2012_val_00000168.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 583, 
+            "class_topmost": 583, 
+            "file_name": "ILSVRC2012_val_00000169.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 158, 
+            "class_topmost": 158, 
+            "file_name": "ILSVRC2012_val_00000170.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 825, 
+            "class_topmost": 825, 
+            "file_name": "ILSVRC2012_val_00000171.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 212, 
+            "class_topmost": 212, 
+            "file_name": "ILSVRC2012_val_00000172.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 659, 
+            "class_topmost": 659, 
+            "file_name": "ILSVRC2012_val_00000173.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 257, 
+            "class_topmost": 257, 
+            "file_name": "ILSVRC2012_val_00000174.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 436, 
+            "class_topmost": 436, 
+            "file_name": "ILSVRC2012_val_00000175.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 196, 
+            "class_topmost": 199, 
+            "file_name": "ILSVRC2012_val_00000176.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 140, 
+            "class_topmost": 140, 
+            "file_name": "ILSVRC2012_val_00000177.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 248, 
+            "class_topmost": 248, 
+            "file_name": "ILSVRC2012_val_00000178.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 339, 
+            "class_topmost": 339, 
+            "file_name": "ILSVRC2012_val_00000179.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 230, 
+            "class_topmost": 232, 
+            "file_name": "ILSVRC2012_val_00000180.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 361, 
+            "class_topmost": 361, 
+            "file_name": "ILSVRC2012_val_00000181.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 544, 
+            "class_topmost": 926, 
+            "file_name": "ILSVRC2012_val_00000182.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 935, 
+            "class_topmost": 935, 
+            "file_name": "ILSVRC2012_val_00000183.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 638, 
+            "class_topmost": 639, 
+            "file_name": "ILSVRC2012_val_00000184.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 627, 
+            "class_topmost": 757, 
+            "file_name": "ILSVRC2012_val_00000185.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 289, 
+            "class_topmost": 289, 
+            "file_name": "ILSVRC2012_val_00000186.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 867, 
+            "class_topmost": 867, 
+            "file_name": "ILSVRC2012_val_00000187.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 272, 
+            "class_topmost": 272, 
+            "file_name": "ILSVRC2012_val_00000188.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 103, 
+            "class_topmost": 103, 
+            "file_name": "ILSVRC2012_val_00000189.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 584, 
+            "class_topmost": 584, 
+            "file_name": "ILSVRC2012_val_00000190.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 180, 
+            "class_topmost": 180, 
+            "file_name": "ILSVRC2012_val_00000191.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 703, 
+            "class_topmost": 677, 
+            "file_name": "ILSVRC2012_val_00000192.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 449, 
+            "class_topmost": 449, 
+            "file_name": "ILSVRC2012_val_00000193.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 771, 
+            "class_topmost": 771, 
+            "file_name": "ILSVRC2012_val_00000194.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 118, 
+            "class_topmost": 118, 
+            "file_name": "ILSVRC2012_val_00000195.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 396, 
+            "class_topmost": 396, 
+            "file_name": "ILSVRC2012_val_00000196.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 934, 
+            "class_topmost": 934, 
+            "file_name": "ILSVRC2012_val_00000197.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 16, 
+            "class_topmost": 16, 
+            "file_name": "ILSVRC2012_val_00000198.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 548, 
+            "class_topmost": 548, 
+            "file_name": "ILSVRC2012_val_00000199.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 993, 
+            "class_topmost": 993, 
+            "file_name": "ILSVRC2012_val_00000200.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 704, 
+            "class_topmost": 704, 
+            "file_name": "ILSVRC2012_val_00000201.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 457, 
+            "class_topmost": 414, 
+            "file_name": "ILSVRC2012_val_00000202.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 233, 
+            "class_topmost": 233, 
+            "file_name": "ILSVRC2012_val_00000203.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 401, 
+            "class_topmost": 416, 
+            "file_name": "ILSVRC2012_val_00000204.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 827, 
+            "class_topmost": 848, 
+            "file_name": "ILSVRC2012_val_00000205.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 376, 
+            "class_topmost": 376, 
+            "file_name": "ILSVRC2012_val_00000206.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 146, 
+            "class_topmost": 146, 
+            "file_name": "ILSVRC2012_val_00000207.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 606, 
+            "class_topmost": 606, 
+            "file_name": "ILSVRC2012_val_00000208.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 922, 
+            "class_topmost": 922, 
+            "file_name": "ILSVRC2012_val_00000209.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 516, 
+            "class_topmost": 797, 
+            "file_name": "ILSVRC2012_val_00000210.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 284, 
+            "class_topmost": 284, 
+            "file_name": "ILSVRC2012_val_00000211.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 889, 
+            "class_topmost": 889, 
+            "file_name": "ILSVRC2012_val_00000212.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 475, 
+            "class_topmost": 475, 
+            "file_name": "ILSVRC2012_val_00000213.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 978, 
+            "class_topmost": 978, 
+            "file_name": "ILSVRC2012_val_00000214.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 475, 
+            "class_topmost": 475, 
+            "file_name": "ILSVRC2012_val_00000215.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 984, 
+            "class_topmost": 984, 
+            "file_name": "ILSVRC2012_val_00000216.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 16, 
+            "class_topmost": 16, 
+            "file_name": "ILSVRC2012_val_00000217.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 77, 
+            "class_topmost": 77, 
+            "file_name": "ILSVRC2012_val_00000218.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 610, 
+            "class_topmost": 610, 
+            "file_name": "ILSVRC2012_val_00000219.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 254, 
+            "class_topmost": 254, 
+            "file_name": "ILSVRC2012_val_00000220.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 636, 
+            "class_topmost": 636, 
+            "file_name": "ILSVRC2012_val_00000221.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 662, 
+            "class_topmost": 662, 
+            "file_name": "ILSVRC2012_val_00000222.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 473, 
+            "class_topmost": 589, 
+            "file_name": "ILSVRC2012_val_00000223.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 213, 
+            "class_topmost": 213, 
+            "file_name": "ILSVRC2012_val_00000224.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 25, 
+            "class_topmost": 25, 
+            "file_name": "ILSVRC2012_val_00000225.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 463, 
+            "class_topmost": 522, 
+            "file_name": "ILSVRC2012_val_00000226.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 215, 
+            "class_topmost": 215, 
+            "file_name": "ILSVRC2012_val_00000227.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 173, 
+            "class_topmost": 537, 
+            "file_name": "ILSVRC2012_val_00000228.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 35, 
+            "class_topmost": 35, 
+            "file_name": "ILSVRC2012_val_00000229.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 741, 
+            "class_topmost": 741, 
+            "file_name": "ILSVRC2012_val_00000230.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 125, 
+            "class_topmost": 125, 
+            "file_name": "ILSVRC2012_val_00000231.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 787, 
+            "class_topmost": 399, 
+            "file_name": "ILSVRC2012_val_00000232.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 289, 
+            "class_topmost": 289, 
+            "file_name": "ILSVRC2012_val_00000233.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 425, 
+            "class_topmost": 425, 
+            "file_name": "ILSVRC2012_val_00000234.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 973, 
+            "class_topmost": 973, 
+            "file_name": "ILSVRC2012_val_00000235.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 1, 
+            "class_topmost": 4, 
+            "file_name": "ILSVRC2012_val_00000236.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 167, 
+            "class_topmost": 167, 
+            "file_name": "ILSVRC2012_val_00000237.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 121, 
+            "class_topmost": 998, 
+            "file_name": "ILSVRC2012_val_00000238.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 445, 
+            "class_topmost": 876, 
+            "file_name": "ILSVRC2012_val_00000239.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 702, 
+            "class_topmost": 422, 
+            "file_name": "ILSVRC2012_val_00000240.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 532, 
+            "class_topmost": 532, 
+            "file_name": "ILSVRC2012_val_00000241.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 366, 
+            "class_topmost": 366, 
+            "file_name": "ILSVRC2012_val_00000242.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 678, 
+            "class_topmost": 678, 
+            "file_name": "ILSVRC2012_val_00000243.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 764, 
+            "class_topmost": 862, 
+            "file_name": "ILSVRC2012_val_00000244.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 125, 
+            "class_topmost": 125, 
+            "file_name": "ILSVRC2012_val_00000245.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 349, 
+            "class_topmost": 349, 
+            "file_name": "ILSVRC2012_val_00000246.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 13, 
+            "class_topmost": 13, 
+            "file_name": "ILSVRC2012_val_00000247.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 179, 
+            "class_topmost": 179, 
+            "file_name": "ILSVRC2012_val_00000248.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 522, 
+            "class_topmost": 731, 
+            "file_name": "ILSVRC2012_val_00000249.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 493, 
+            "class_topmost": 648, 
+            "file_name": "ILSVRC2012_val_00000250.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 989, 
+            "class_topmost": 989, 
+            "file_name": "ILSVRC2012_val_00000251.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 720, 
+            "class_topmost": 455, 
+            "file_name": "ILSVRC2012_val_00000252.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 438, 
+            "class_topmost": 438, 
+            "file_name": "ILSVRC2012_val_00000253.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 660, 
+            "class_topmost": 660, 
+            "file_name": "ILSVRC2012_val_00000254.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 983, 
+            "class_topmost": 693, 
+            "file_name": "ILSVRC2012_val_00000255.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 533, 
+            "class_topmost": 533, 
+            "file_name": "ILSVRC2012_val_00000256.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 487, 
+            "class_topmost": 590, 
+            "file_name": "ILSVRC2012_val_00000257.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 27, 
+            "class_topmost": 27, 
+            "file_name": "ILSVRC2012_val_00000258.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 644, 
+            "class_topmost": 644, 
+            "file_name": "ILSVRC2012_val_00000259.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 750, 
+            "class_topmost": 172, 
+            "file_name": "ILSVRC2012_val_00000260.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 865, 
+            "class_topmost": 850, 
+            "file_name": "ILSVRC2012_val_00000261.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 1, 
+            "class_topmost": 1, 
+            "file_name": "ILSVRC2012_val_00000262.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 176, 
+            "class_topmost": 176, 
+            "file_name": "ILSVRC2012_val_00000263.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 694, 
+            "class_topmost": 694, 
+            "file_name": "ILSVRC2012_val_00000264.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 695, 
+            "class_topmost": 446, 
+            "file_name": "ILSVRC2012_val_00000265.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 798, 
+            "class_topmost": 798, 
+            "file_name": "ILSVRC2012_val_00000266.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 925, 
+            "class_topmost": 925, 
+            "file_name": "ILSVRC2012_val_00000267.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 413, 
+            "class_topmost": 413, 
+            "file_name": "ILSVRC2012_val_00000268.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 250, 
+            "class_topmost": 279, 
+            "file_name": "ILSVRC2012_val_00000269.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 970, 
+            "class_topmost": 972, 
+            "file_name": "ILSVRC2012_val_00000270.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 821, 
+            "class_topmost": 821, 
+            "file_name": "ILSVRC2012_val_00000271.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 421, 
+            "class_topmost": 421, 
+            "file_name": "ILSVRC2012_val_00000272.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 361, 
+            "class_topmost": 361, 
+            "file_name": "ILSVRC2012_val_00000273.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 920, 
+            "class_topmost": 920, 
+            "file_name": "ILSVRC2012_val_00000274.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 761, 
+            "class_topmost": 918, 
+            "file_name": "ILSVRC2012_val_00000275.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 27, 
+            "class_topmost": 27, 
+            "file_name": "ILSVRC2012_val_00000276.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 676, 
+            "class_topmost": 676, 
+            "file_name": "ILSVRC2012_val_00000277.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 92, 
+            "class_topmost": 92, 
+            "file_name": "ILSVRC2012_val_00000278.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 194, 
+            "class_topmost": 202, 
+            "file_name": "ILSVRC2012_val_00000279.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 897, 
+            "class_topmost": 897, 
+            "file_name": "ILSVRC2012_val_00000280.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 612, 
+            "class_topmost": 612, 
+            "file_name": "ILSVRC2012_val_00000281.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 610, 
+            "class_topmost": 610, 
+            "file_name": "ILSVRC2012_val_00000282.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 283, 
+            "class_topmost": 283, 
+            "file_name": "ILSVRC2012_val_00000283.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 881, 
+            "class_topmost": 881, 
+            "file_name": "ILSVRC2012_val_00000284.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 906, 
+            "class_topmost": 834, 
+            "file_name": "ILSVRC2012_val_00000285.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 899, 
+            "class_topmost": 470, 
+            "file_name": "ILSVRC2012_val_00000286.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 426, 
+            "class_topmost": 426, 
+            "file_name": "ILSVRC2012_val_00000287.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 554, 
+            "class_topmost": 554, 
+            "file_name": "ILSVRC2012_val_00000288.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 403, 
+            "class_topmost": 403, 
+            "file_name": "ILSVRC2012_val_00000289.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 826, 
+            "class_topmost": 531, 
+            "file_name": "ILSVRC2012_val_00000290.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 869, 
+            "class_topmost": 869, 
+            "file_name": "ILSVRC2012_val_00000291.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 730, 
+            "class_topmost": 912, 
+            "file_name": "ILSVRC2012_val_00000292.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 0, 
+            "class_topmost": 391, 
+            "file_name": "ILSVRC2012_val_00000293.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 866, 
+            "class_topmost": 866, 
+            "file_name": "ILSVRC2012_val_00000294.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 580, 
+            "class_topmost": 580, 
+            "file_name": "ILSVRC2012_val_00000295.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 888, 
+            "class_topmost": 718, 
+            "file_name": "ILSVRC2012_val_00000296.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 43, 
+            "class_topmost": 43, 
+            "file_name": "ILSVRC2012_val_00000297.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 64, 
+            "class_topmost": 64, 
+            "file_name": "ILSVRC2012_val_00000298.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 69, 
+            "class_topmost": 69, 
+            "file_name": "ILSVRC2012_val_00000299.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 176, 
+            "class_topmost": 176, 
+            "file_name": "ILSVRC2012_val_00000300.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 329, 
+            "class_topmost": 329, 
+            "file_name": "ILSVRC2012_val_00000301.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 469, 
+            "class_topmost": 469, 
+            "file_name": "ILSVRC2012_val_00000302.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 292, 
+            "class_topmost": 288, 
+            "file_name": "ILSVRC2012_val_00000303.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 991, 
+            "class_topmost": 991, 
+            "file_name": "ILSVRC2012_val_00000304.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 591, 
+            "class_topmost": 591, 
+            "file_name": "ILSVRC2012_val_00000305.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 346, 
+            "class_topmost": 346, 
+            "file_name": "ILSVRC2012_val_00000306.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 1, 
+            "class_topmost": 1, 
+            "file_name": "ILSVRC2012_val_00000307.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 607, 
+            "class_topmost": 607, 
+            "file_name": "ILSVRC2012_val_00000308.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 934, 
+            "class_topmost": 934, 
+            "file_name": "ILSVRC2012_val_00000309.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 784, 
+            "class_topmost": 550, 
+            "file_name": "ILSVRC2012_val_00000310.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 572, 
+            "class_topmost": 855, 
+            "file_name": "ILSVRC2012_val_00000311.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 389, 
+            "class_topmost": 3, 
+            "file_name": "ILSVRC2012_val_00000312.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 979, 
+            "class_topmost": 979, 
+            "file_name": "ILSVRC2012_val_00000313.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 654, 
+            "class_topmost": 656, 
+            "file_name": "ILSVRC2012_val_00000314.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 420, 
+            "class_topmost": 504, 
+            "file_name": "ILSVRC2012_val_00000315.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 390, 
+            "class_topmost": 390, 
+            "file_name": "ILSVRC2012_val_00000316.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 702, 
+            "class_topmost": 602, 
+            "file_name": "ILSVRC2012_val_00000317.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 24, 
+            "class_topmost": 24, 
+            "file_name": "ILSVRC2012_val_00000318.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 102, 
+            "class_topmost": 102, 
+            "file_name": "ILSVRC2012_val_00000319.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 949, 
+            "class_topmost": 954, 
+            "file_name": "ILSVRC2012_val_00000320.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 508, 
+            "class_topmost": 508, 
+            "file_name": "ILSVRC2012_val_00000321.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 361, 
+            "class_topmost": 361, 
+            "file_name": "ILSVRC2012_val_00000322.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 280, 
+            "class_topmost": 280, 
+            "file_name": "ILSVRC2012_val_00000323.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 65, 
+            "class_topmost": 65, 
+            "file_name": "ILSVRC2012_val_00000324.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 777, 
+            "class_topmost": 777, 
+            "file_name": "ILSVRC2012_val_00000325.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 359, 
+            "class_topmost": 359, 
+            "file_name": "ILSVRC2012_val_00000326.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 165, 
+            "class_topmost": 234, 
+            "file_name": "ILSVRC2012_val_00000327.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 21, 
+            "class_topmost": 21, 
+            "file_name": "ILSVRC2012_val_00000328.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 7, 
+            "class_topmost": 83, 
+            "file_name": "ILSVRC2012_val_00000329.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 525, 
+            "class_topmost": 525, 
+            "file_name": "ILSVRC2012_val_00000330.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 760, 
+            "class_topmost": 398, 
+            "file_name": "ILSVRC2012_val_00000331.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 938, 
+            "class_topmost": 938, 
+            "file_name": "ILSVRC2012_val_00000332.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 254, 
+            "class_topmost": 106, 
+            "file_name": "ILSVRC2012_val_00000333.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 733, 
+            "class_topmost": 602, 
+            "file_name": "ILSVRC2012_val_00000334.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 707, 
+            "class_topmost": 707, 
+            "file_name": "ILSVRC2012_val_00000335.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 463, 
+            "class_topmost": 463, 
+            "file_name": "ILSVRC2012_val_00000336.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 60, 
+            "class_topmost": 61, 
+            "file_name": "ILSVRC2012_val_00000337.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 887, 
+            "class_topmost": 887, 
+            "file_name": "ILSVRC2012_val_00000338.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 531, 
+            "class_topmost": 477, 
+            "file_name": "ILSVRC2012_val_00000339.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 380, 
+            "class_topmost": 380, 
+            "file_name": "ILSVRC2012_val_00000340.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 982, 
+            "class_topmost": 982, 
+            "file_name": "ILSVRC2012_val_00000341.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 305, 
+            "class_topmost": 305, 
+            "file_name": "ILSVRC2012_val_00000342.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 355, 
+            "class_topmost": 355, 
+            "file_name": "ILSVRC2012_val_00000343.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 503, 
+            "class_topmost": 503, 
+            "file_name": "ILSVRC2012_val_00000344.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 818, 
+            "class_topmost": 745, 
+            "file_name": "ILSVRC2012_val_00000345.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 495, 
+            "class_topmost": 495, 
+            "file_name": "ILSVRC2012_val_00000346.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 472, 
+            "class_topmost": 472, 
+            "file_name": "ILSVRC2012_val_00000347.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 293, 
+            "class_topmost": 293, 
+            "file_name": "ILSVRC2012_val_00000348.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 816, 
+            "class_topmost": 816, 
+            "file_name": "ILSVRC2012_val_00000349.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 195, 
+            "class_topmost": 195, 
+            "file_name": "ILSVRC2012_val_00000350.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 904, 
+            "class_topmost": 904, 
+            "file_name": "ILSVRC2012_val_00000351.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 475, 
+            "class_topmost": 475, 
+            "file_name": "ILSVRC2012_val_00000352.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 481, 
+            "class_topmost": 481, 
+            "file_name": "ILSVRC2012_val_00000353.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 431, 
+            "class_topmost": 431, 
+            "file_name": "ILSVRC2012_val_00000354.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 260, 
+            "class_topmost": 260, 
+            "file_name": "ILSVRC2012_val_00000355.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 130, 
+            "class_topmost": 130, 
+            "file_name": "ILSVRC2012_val_00000356.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 627, 
+            "class_topmost": 627, 
+            "file_name": "ILSVRC2012_val_00000357.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 460, 
+            "class_topmost": 978, 
+            "file_name": "ILSVRC2012_val_00000358.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 622, 
+            "class_topmost": 544, 
+            "file_name": "ILSVRC2012_val_00000359.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 696, 
+            "class_topmost": 837, 
+            "file_name": "ILSVRC2012_val_00000360.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 300, 
+            "class_topmost": 300, 
+            "file_name": "ILSVRC2012_val_00000361.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 37, 
+            "class_topmost": 37, 
+            "file_name": "ILSVRC2012_val_00000362.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 133, 
+            "class_topmost": 133, 
+            "file_name": "ILSVRC2012_val_00000363.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 637, 
+            "class_topmost": 703, 
+            "file_name": "ILSVRC2012_val_00000364.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 675, 
+            "class_topmost": 867, 
+            "file_name": "ILSVRC2012_val_00000365.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 465, 
+            "class_topmost": 465, 
+            "file_name": "ILSVRC2012_val_00000366.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 592, 
+            "class_topmost": 592, 
+            "file_name": "ILSVRC2012_val_00000367.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 741, 
+            "class_topmost": 741, 
+            "file_name": "ILSVRC2012_val_00000368.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 895, 
+            "class_topmost": 403, 
+            "file_name": "ILSVRC2012_val_00000369.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 91, 
+            "class_topmost": 91, 
+            "file_name": "ILSVRC2012_val_00000370.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 109, 
+            "class_topmost": 109, 
+            "file_name": "ILSVRC2012_val_00000371.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 582, 
+            "class_topmost": 582, 
+            "file_name": "ILSVRC2012_val_00000372.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 694, 
+            "class_topmost": 694, 
+            "file_name": "ILSVRC2012_val_00000373.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 546, 
+            "class_topmost": 546, 
+            "file_name": "ILSVRC2012_val_00000374.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 208, 
+            "class_topmost": 208, 
+            "file_name": "ILSVRC2012_val_00000375.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 488, 
+            "class_topmost": 488, 
+            "file_name": "ILSVRC2012_val_00000376.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 786, 
+            "class_topmost": 471, 
+            "file_name": "ILSVRC2012_val_00000377.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 959, 
+            "class_topmost": 959, 
+            "file_name": "ILSVRC2012_val_00000378.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 192, 
+            "class_topmost": 233, 
+            "file_name": "ILSVRC2012_val_00000379.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 834, 
+            "class_topmost": 513, 
+            "file_name": "ILSVRC2012_val_00000380.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 879, 
+            "class_topmost": 841, 
+            "file_name": "ILSVRC2012_val_00000381.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 649, 
+            "class_topmost": 649, 
+            "file_name": "ILSVRC2012_val_00000382.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 228, 
+            "class_topmost": 228, 
+            "file_name": "ILSVRC2012_val_00000383.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 621, 
+            "class_topmost": 621, 
+            "file_name": "ILSVRC2012_val_00000384.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 630, 
+            "class_topmost": 703, 
+            "file_name": "ILSVRC2012_val_00000385.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 107, 
+            "class_topmost": 107, 
+            "file_name": "ILSVRC2012_val_00000386.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 598, 
+            "class_topmost": 527, 
+            "file_name": "ILSVRC2012_val_00000387.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 420, 
+            "class_topmost": 420, 
+            "file_name": "ILSVRC2012_val_00000388.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 134, 
+            "class_topmost": 132, 
+            "file_name": "ILSVRC2012_val_00000389.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 133, 
+            "class_topmost": 133, 
+            "file_name": "ILSVRC2012_val_00000390.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 185, 
+            "class_topmost": 185, 
+            "file_name": "ILSVRC2012_val_00000391.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 471, 
+            "class_topmost": 471, 
+            "file_name": "ILSVRC2012_val_00000392.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 230, 
+            "class_topmost": 230, 
+            "file_name": "ILSVRC2012_val_00000393.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 974, 
+            "class_topmost": 974, 
+            "file_name": "ILSVRC2012_val_00000394.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 74, 
+            "class_topmost": 74, 
+            "file_name": "ILSVRC2012_val_00000395.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 76, 
+            "class_topmost": 76, 
+            "file_name": "ILSVRC2012_val_00000396.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 852, 
+            "class_topmost": 852, 
+            "file_name": "ILSVRC2012_val_00000397.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 383, 
+            "class_topmost": 181, 
+            "file_name": "ILSVRC2012_val_00000398.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 267, 
+            "class_topmost": 267, 
+            "file_name": "ILSVRC2012_val_00000399.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 419, 
+            "class_topmost": 932, 
+            "file_name": "ILSVRC2012_val_00000400.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 359, 
+            "class_topmost": 359, 
+            "file_name": "ILSVRC2012_val_00000401.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 484, 
+            "class_topmost": 871, 
+            "file_name": "ILSVRC2012_val_00000402.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 510, 
+            "class_topmost": 510, 
+            "file_name": "ILSVRC2012_val_00000403.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 33, 
+            "class_topmost": 33, 
+            "file_name": "ILSVRC2012_val_00000404.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 177, 
+            "class_topmost": 170, 
+            "file_name": "ILSVRC2012_val_00000405.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 935, 
+            "class_topmost": 935, 
+            "file_name": "ILSVRC2012_val_00000406.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 310, 
+            "class_topmost": 310, 
+            "file_name": "ILSVRC2012_val_00000407.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 998, 
+            "class_topmost": 987, 
+            "file_name": "ILSVRC2012_val_00000408.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 270, 
+            "class_topmost": 270, 
+            "file_name": "ILSVRC2012_val_00000409.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 598, 
+            "class_topmost": 598, 
+            "file_name": "ILSVRC2012_val_00000410.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 199, 
+            "class_topmost": 199, 
+            "file_name": "ILSVRC2012_val_00000411.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 998, 
+            "class_topmost": 998, 
+            "file_name": "ILSVRC2012_val_00000412.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 836, 
+            "class_topmost": 731, 
+            "file_name": "ILSVRC2012_val_00000413.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 14, 
+            "class_topmost": 14, 
+            "file_name": "ILSVRC2012_val_00000414.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 97, 
+            "class_topmost": 97, 
+            "file_name": "ILSVRC2012_val_00000415.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 856, 
+            "class_topmost": 856, 
+            "file_name": "ILSVRC2012_val_00000416.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 398, 
+            "class_topmost": 398, 
+            "file_name": "ILSVRC2012_val_00000417.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 319, 
+            "class_topmost": 320, 
+            "file_name": "ILSVRC2012_val_00000418.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 549, 
+            "class_topmost": 549, 
+            "file_name": "ILSVRC2012_val_00000419.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 92, 
+            "class_topmost": 92, 
+            "file_name": "ILSVRC2012_val_00000420.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 765, 
+            "class_topmost": 765, 
+            "file_name": "ILSVRC2012_val_00000421.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 412, 
+            "class_topmost": 412, 
+            "file_name": "ILSVRC2012_val_00000422.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 945, 
+            "class_topmost": 945, 
+            "file_name": "ILSVRC2012_val_00000423.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 160, 
+            "class_topmost": 160, 
+            "file_name": "ILSVRC2012_val_00000424.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 265, 
+            "class_topmost": 266, 
+            "file_name": "ILSVRC2012_val_00000425.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 638, 
+            "class_topmost": 639, 
+            "file_name": "ILSVRC2012_val_00000426.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 619, 
+            "class_topmost": 846, 
+            "file_name": "ILSVRC2012_val_00000427.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 722, 
+            "class_topmost": 722, 
+            "file_name": "ILSVRC2012_val_00000428.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 183, 
+            "class_topmost": 183, 
+            "file_name": "ILSVRC2012_val_00000429.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 674, 
+            "class_topmost": 674, 
+            "file_name": "ILSVRC2012_val_00000430.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 468, 
+            "class_topmost": 468, 
+            "file_name": "ILSVRC2012_val_00000431.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 468, 
+            "class_topmost": 734, 
+            "file_name": "ILSVRC2012_val_00000432.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 885, 
+            "class_topmost": 539, 
+            "file_name": "ILSVRC2012_val_00000433.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 675, 
+            "class_topmost": 867, 
+            "file_name": "ILSVRC2012_val_00000434.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 636, 
+            "class_topmost": 636, 
+            "file_name": "ILSVRC2012_val_00000435.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 196, 
+            "class_topmost": 196, 
+            "file_name": "ILSVRC2012_val_00000436.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 912, 
+            "class_topmost": 677, 
+            "file_name": "ILSVRC2012_val_00000437.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 721, 
+            "class_topmost": 721, 
+            "file_name": "ILSVRC2012_val_00000438.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 16, 
+            "class_topmost": 16, 
+            "file_name": "ILSVRC2012_val_00000439.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 199, 
+            "class_topmost": 199, 
+            "file_name": "ILSVRC2012_val_00000440.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 175, 
+            "class_topmost": 175, 
+            "file_name": "ILSVRC2012_val_00000441.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 775, 
+            "class_topmost": 578, 
+            "file_name": "ILSVRC2012_val_00000442.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 944, 
+            "class_topmost": 944, 
+            "file_name": "ILSVRC2012_val_00000443.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 350, 
+            "class_topmost": 350, 
+            "file_name": "ILSVRC2012_val_00000444.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 557, 
+            "class_topmost": 557, 
+            "file_name": "ILSVRC2012_val_00000445.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 361, 
+            "class_topmost": 361, 
+            "file_name": "ILSVRC2012_val_00000446.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 361, 
+            "class_topmost": 361, 
+            "file_name": "ILSVRC2012_val_00000447.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 594, 
+            "class_topmost": 594, 
+            "file_name": "ILSVRC2012_val_00000448.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 861, 
+            "class_topmost": 861, 
+            "file_name": "ILSVRC2012_val_00000449.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 257, 
+            "class_topmost": 257, 
+            "file_name": "ILSVRC2012_val_00000450.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 606, 
+            "class_topmost": 606, 
+            "file_name": "ILSVRC2012_val_00000451.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 734, 
+            "class_topmost": 734, 
+            "file_name": "ILSVRC2012_val_00000452.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 767, 
+            "class_topmost": 767, 
+            "file_name": "ILSVRC2012_val_00000453.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 746, 
+            "class_topmost": 746, 
+            "file_name": "ILSVRC2012_val_00000454.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 788, 
+            "class_topmost": 788, 
+            "file_name": "ILSVRC2012_val_00000455.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 346, 
+            "class_topmost": 346, 
+            "file_name": "ILSVRC2012_val_00000456.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 153, 
+            "class_topmost": 153, 
+            "file_name": "ILSVRC2012_val_00000457.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 739, 
+            "class_topmost": 739, 
+            "file_name": "ILSVRC2012_val_00000458.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 414, 
+            "class_topmost": 414, 
+            "file_name": "ILSVRC2012_val_00000459.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 915, 
+            "class_topmost": 915, 
+            "file_name": "ILSVRC2012_val_00000460.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 940, 
+            "class_topmost": 940, 
+            "file_name": "ILSVRC2012_val_00000461.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 152, 
+            "class_topmost": 152, 
+            "file_name": "ILSVRC2012_val_00000462.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 943, 
+            "class_topmost": 943, 
+            "file_name": "ILSVRC2012_val_00000463.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 849, 
+            "class_topmost": 868, 
+            "file_name": "ILSVRC2012_val_00000464.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 712, 
+            "class_topmost": 720, 
+            "file_name": "ILSVRC2012_val_00000465.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 100, 
+            "class_topmost": 100, 
+            "file_name": "ILSVRC2012_val_00000466.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 546, 
+            "class_topmost": 546, 
+            "file_name": "ILSVRC2012_val_00000467.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 744, 
+            "class_topmost": 657, 
+            "file_name": "ILSVRC2012_val_00000468.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 764, 
+            "class_topmost": 432, 
+            "file_name": "ILSVRC2012_val_00000469.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 141, 
+            "class_topmost": 141, 
+            "file_name": "ILSVRC2012_val_00000470.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 39, 
+            "class_topmost": 39, 
+            "file_name": "ILSVRC2012_val_00000471.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 993, 
+            "class_topmost": 993, 
+            "file_name": "ILSVRC2012_val_00000472.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 758, 
+            "class_topmost": 758, 
+            "file_name": "ILSVRC2012_val_00000473.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 190, 
+            "class_topmost": 190, 
+            "file_name": "ILSVRC2012_val_00000474.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 888, 
+            "class_topmost": 888, 
+            "file_name": "ILSVRC2012_val_00000475.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 18, 
+            "class_topmost": 143, 
+            "file_name": "ILSVRC2012_val_00000476.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 584, 
+            "class_topmost": 584, 
+            "file_name": "ILSVRC2012_val_00000477.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 341, 
+            "class_topmost": 341, 
+            "file_name": "ILSVRC2012_val_00000478.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 875, 
+            "class_topmost": 875, 
+            "file_name": "ILSVRC2012_val_00000479.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 359, 
+            "class_topmost": 359, 
+            "file_name": "ILSVRC2012_val_00000480.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 388, 
+            "class_topmost": 388, 
+            "file_name": "ILSVRC2012_val_00000481.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 894, 
+            "class_topmost": 894, 
+            "file_name": "ILSVRC2012_val_00000482.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 437, 
+            "class_topmost": 437, 
+            "file_name": "ILSVRC2012_val_00000483.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 987, 
+            "class_topmost": 987, 
+            "file_name": "ILSVRC2012_val_00000484.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 517, 
+            "class_topmost": 847, 
+            "file_name": "ILSVRC2012_val_00000485.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 372, 
+            "class_topmost": 372, 
+            "file_name": "ILSVRC2012_val_00000486.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 286, 
+            "class_topmost": 371, 
+            "file_name": "ILSVRC2012_val_00000487.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 662, 
+            "class_topmost": 482, 
+            "file_name": "ILSVRC2012_val_00000488.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 713, 
+            "class_topmost": 713, 
+            "file_name": "ILSVRC2012_val_00000489.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 915, 
+            "class_topmost": 915, 
+            "file_name": "ILSVRC2012_val_00000490.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 964, 
+            "class_topmost": 964, 
+            "file_name": "ILSVRC2012_val_00000491.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "no", 
+            "class_correct": 146, 
+            "class_topmost": 22, 
+            "file_name": "ILSVRC2012_val_00000492.JPEG"
+          }, 
+          {
+            "accuracy_top1": "no", 
+            "accuracy_top5": "yes", 
+            "class_correct": 529, 
+            "class_topmost": 520, 
+            "file_name": "ILSVRC2012_val_00000493.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 416, 
+            "class_topmost": 416, 
+            "file_name": "ILSVRC2012_val_00000494.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 376, 
+            "class_topmost": 376, 
+            "file_name": "ILSVRC2012_val_00000495.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 147, 
+            "class_topmost": 147, 
+            "file_name": "ILSVRC2012_val_00000496.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 902, 
+            "class_topmost": 902, 
+            "file_name": "ILSVRC2012_val_00000497.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 26, 
+            "class_topmost": 26, 
+            "file_name": "ILSVRC2012_val_00000498.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 398, 
+            "class_topmost": 398, 
+            "file_name": "ILSVRC2012_val_00000499.JPEG"
+          }, 
+          {
+            "accuracy_top1": "yes", 
+            "accuracy_top5": "yes", 
+            "class_correct": 175, 
+            "class_topmost": 175, 
+            "file_name": "ILSVRC2012_val_00000500.JPEG"
+          }
+        ], 
+        "images_load_time_avg_s": 0.031296, 
+        "images_load_time_s": 15.648029, 
+        "prediction_time_avg_s": 0.095019, 
+        "prediction_time_total_s": 47.50967, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "setup_time_s": 2.130494, 
+        "test_time_s ": 69.063286, 
+        "total_execution_time": 47.50967
+      }
+    }
+  ], 
+  "choices": {
+    "cmd_key": "default", 
+    "compile_type": "dynamic", 
+    "compiler_flags": {}, 
+    "compute_device_id": "0", 
+    "compute_platform_id": "0", 
+    "cpu_freq": "max", 
+    "data_uoa": "mobilenets-armcl-opencl", 
+    "dataset_file": "", 
+    "device_id": "", 
+    "energy": "no", 
+    "env": {
+      "CK_BATCHES_DIR": "../batches", 
+      "CK_BATCH_COUNT": 500, 
+      "CK_BATCH_LIST": "../batches", 
+      "CK_BATCH_SIZE": 1, 
+      "CK_COMPUTE_DEVICE_ID": "0", 
+      "CK_COMPUTE_PLATFORM_ID": "0", 
+      "CK_CONVOLUTION_METHOD_HINT": 0, 
+      "CK_CPU_FREQUENCY": "max", 
+      "CK_ENV_DATASET_IMAGENET_VAL": "/home/fursin/CK/local/env/6b7b8b5d320f99fa/", 
+      "CK_ENV_MOBILENET_RESOLUTION": 224, 
+      "CK_ENV_MOBILENET_WIDTH_MULTIPLIER": 1.0, 
+      "CK_GPU_FREQUENCY": "max", 
+      "CK_IMAGE_FILE": "", 
+      "CK_IMAGE_LIST": "../images", 
+      "CK_PREPARE_ALWAYS": "NO", 
+      "CK_RESULTS_DIR": "predictions", 
+      "CK_SKIP_IMAGES": 0
+    }, 
+    "flags": "-O3", 
+    "gpu_freq": "max", 
+    "host_os": "linux-64", 
+    "module_uoa": "b0ac08fe1d3c2615", 
+    "no_compile": "no", 
+    "no_state_check": "yes", 
+    "repeat": 1, 
+    "skip_calibration": "yes", 
+    "skip_print_timers": "yes", 
+    "target": "", 
+    "target_os": "linux-64", 
+    "target_os_bits": "64"
+  }, 
+  "choices_order": [
+    "##choices#env#CK_BATCH_SIZE", 
+    "##choices#env#CK_CONVOLUTION_METHOD_HINT", 
+    "##choices#env#CK_ENV_MOBILENET_RESOLUTION", 
+    "##choices#env#CK_ENV_MOBILENET_WIDTH_MULTIPLIER"
+  ], 
+  "features": {
+    "compiler_version": {
+      "list": [
+        7, 
+        2, 
+        0
+      ], 
+      "raw": [
+        "gcc (Ubuntu/Linaro 7.2.0-1ubuntu1~16.04) 7.2.0", 
+        "Copyright (C) 2017 Free Software Foundation, Inc.", 
+        "This is free software; see the source for copying conditions.  There is NO", 
+        "warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.", 
+        "", 
+        ""
+      ], 
+      "str": "7.2.0"
+    }, 
+    "gpgpu": [
+      {
+        "gpgpu": {
+          "name": "Mali-T860", 
+          "type": "opencl", 
+          "vendor": "ARM"
+        }, 
+        "gpgpu_deps": {
+          "compiler": {
+            "bat": ". /home/fursin/CK/local/env/37f92184481a045c/env.sh\n", 
+            "build_dir_name": "gcc", 
+            "choices": [
+              "37f92184481a045c", 
+              "8d5437a8d0417da5"
+            ], 
+            "cus": {
+              "add_only_with_version": "yes", 
+              "add_to_path": "yes", 
+              "build_dir_name": "gcc", 
+              "can_strip_dynamic_lib": "yes", 
+              "check_that_exists": "yes", 
+              "ck_version": 10, 
+              "env_prefix": "CK_ENV_COMPILER_GCC", 
+              "full_path": "/usr/bin/gcc", 
+              "languages": [
+                "C", 
+                "CPP"
+              ], 
+              "limit_recursion_dir_search": {
+                "linux": 3, 
+                "win": 4
+              }, 
+              "only_for_target_os_tags": [
+                "mingw", 
+                "windows", 
+                "linux"
+              ], 
+              "retarget": "no", 
+              "search_numeric_ext_on_linux": "yes", 
+              "skip_path": "yes", 
+              "soft_file": {
+                "linux": "gcc", 
+                "win": "gcc.exe"
+              }, 
+              "soft_file_from_host_os": "yes", 
+              "soft_path_example": {
+                "linux": "/usr/bin/gcc", 
+                "win": "C:\\Program Files\\GCC-4.9.2-x64\\bin\\gcc.exe"
+              }, 
+              "soft_version_cmd": {
+                "linux": "--version > $#filename#$ 2>&1", 
+                "win": " --version > $#filename#$ 2>&1"
+              }, 
+              "sort": 100, 
+              "tool_postfix": "", 
+              "tool_postfix_configured": "yes", 
+              "tool_prefix": "", 
+              "tool_prefix_configured": "yes", 
+              "version": "7.2.0", 
+              "version_split": [
+                7, 
+                2, 
+                0
+              ]
+            }, 
+            "detected_ver": "7.2.0", 
+            "dict": {
+              "customize": {
+                "add_only_with_version": "yes", 
+                "add_to_path": "yes", 
+                "build_dir_name": "gcc", 
+                "can_strip_dynamic_lib": "yes", 
+                "check_that_exists": "yes", 
+                "ck_version": 10, 
+                "env_prefix": "CK_ENV_COMPILER_GCC", 
+                "full_path": "/usr/bin/gcc", 
+                "languages": [
+                  "C", 
+                  "CPP"
+                ], 
+                "limit_recursion_dir_search": {
+                  "linux": 3, 
+                  "win": 4
+                }, 
+                "only_for_target_os_tags": [
+                  "mingw", 
+                  "windows", 
+                  "linux"
+                ], 
+                "retarget": "no", 
+                "search_numeric_ext_on_linux": "yes", 
+                "skip_path": "yes", 
+                "soft_file": {
+                  "linux": "gcc", 
+                  "win": "gcc.exe"
+                }, 
+                "soft_file_from_host_os": "yes", 
+                "soft_path_example": {
+                  "linux": "/usr/bin/gcc", 
+                  "win": "C:\\Program Files\\GCC-4.9.2-x64\\bin\\gcc.exe"
+                }, 
+                "soft_version_cmd": {
+                  "linux": "--version > $#filename#$ 2>&1", 
+                  "win": " --version > $#filename#$ 2>&1"
+                }, 
+                "sort": 100, 
+                "tool_postfix": "", 
+                "tool_postfix_configured": "yes", 
+                "tool_prefix": "", 
+                "tool_prefix_configured": "yes", 
+                "version": "7.2.0", 
+                "version_split": [
+                  7, 
+                  2, 
+                  0
+                ]
+              }, 
+              "data_name": "GNU C compiler", 
+              "deps": {}, 
+              "env": {
+                "CK_AR": "ar", 
+                "CK_ASM_EXT": ".s", 
+                "CK_CC": "gcc", 
+                "CK_COMPILER_FLAGS_OBLIGATORY": "", 
+                "CK_COMPILER_FLAG_CPP0X": "-std=c++0x", 
+                "CK_COMPILER_FLAG_CPP11": "-std=c++11", 
+                "CK_COMPILER_FLAG_CPP14": "-std=c++14", 
+                "CK_COMPILER_FLAG_CPP1Z": "-std=c++1z", 
+                "CK_COMPILER_FLAG_GPROF": "-pg", 
+                "CK_COMPILER_FLAG_OPENMP": "-fopenmp", 
+                "CK_COMPILER_FLAG_PLUGIN": "-fplugin=", 
+                "CK_COMPILER_FLAG_PTHREAD_LIB": "-lpthread", 
+                "CK_COMPILER_FLAG_STD90": "-std=c90", 
+                "CK_COMPILER_FLAG_STD99": "-std=c99", 
+                "CK_COMPILER_POSTFIX": "", 
+                "CK_COMPILER_TOOLCHAIN_NAME": "gcc", 
+                "CK_CXX": "g++", 
+                "CK_DLL_EXT": ".so", 
+                "CK_ENV_COMPILER_GCC": "/usr", 
+                "CK_ENV_COMPILER_GCC_LIB": "/usr/lib/gcc/aarch64-linux-gnu/7", 
+                "CK_EXE_EXT": ".out", 
+                "CK_EXTRA_LIB_DL": "-ldl", 
+                "CK_EXTRA_LIB_M": "-lm", 
+                "CK_FLAGS_CREATE_ASM": "-S", 
+                "CK_FLAGS_CREATE_OBJ": "-c", 
+                "CK_FLAGS_DLL": "-shared -fPIC", 
+                "CK_FLAGS_DLL_EXTRA": "", 
+                "CK_FLAGS_DYNAMIC_BIN": " ", 
+                "CK_FLAGS_OUTPUT": "-o ", 
+                "CK_FLAGS_STATIC_BIN": "-static -fPIC", 
+                "CK_FLAGS_STATIC_LIB": "-fPIC", 
+                "CK_FLAG_PREFIX_INCLUDE": "-I", 
+                "CK_FLAG_PREFIX_LIB_DIR": "-L", 
+                "CK_FLAG_PREFIX_VAR": "-D", 
+                "CK_GPROF_OUT_FILE": "gmon.out", 
+                "CK_LB": "ar rcs", 
+                "CK_LB_OUTPUT": "-o ", 
+                "CK_LD": "ld", 
+                "CK_LD_FLAGS_EXTRA": "", 
+                "CK_LIB_EXT": ".a", 
+                "CK_LINKER_FLAG_OPENMP": "-lgomp -lrt", 
+                "CK_MAKE": "make", 
+                "CK_OBJDUMP": "objdump -d", 
+                "CK_OBJ_EXT": ".o", 
+                "CK_OPT_ALL_WARNINGS": "-Wall", 
+                "CK_OPT_SIZE": "-Os", 
+                "CK_OPT_SPEED": "-O3", 
+                "CK_OPT_SPEED_SAFE": "-O2", 
+                "CK_OPT_UNWIND": " ", 
+                "CK_PLUGIN_FLAG": "-fplugin=", 
+                "CK_PROFILER": "gprof", 
+                "CK_RANLIB": "ranlib"
+              }, 
+              "env_script": "env.sh", 
+              "setup": {
+                "host_os_uoa": "4258b5fe54828a50", 
+                "target_os_bits": "64", 
+                "target_os_uoa": "4258b5fe54828a50", 
+                "version": "7.2.0", 
+                "version_split": [
+                  7, 
+                  2, 
+                  0
+                ]
+              }, 
+              "soft_alias": "compiler.gcc", 
+              "soft_uoa": "3a8a82fa40bf992d", 
+              "tags": [
+                "64bits", 
+                "compiler", 
+                "gcc", 
+                "host-os-linux-64", 
+                "lang-c", 
+                "lang-cpp", 
+                "target-os-linux-64", 
+                "v7", 
+                "v7.2", 
+                "v7.2.0"
+              ]
+            }, 
+            "local": "yes", 
+            "name": "C compiler", 
+            "num_entries": 1, 
+            "sort": 10, 
+            "tags": "compiler,lang-c", 
+            "uoa": "37f92184481a045c", 
+            "ver": "7.2.0"
+          }, 
+          "lib-opencl": {
+            "bat": ". /home/fursin/CK/local/env/b657cfe4e7cba9da/env.sh\n", 
+            "choices": [
+              "b657cfe4e7cba9da"
+            ], 
+            "cus": {
+              "check_that_exists": "yes", 
+              "ck_version": 10, 
+              "dynamic_lib": "libOpenCL.so", 
+              "env_prefix": "CK_ENV_LIB_OPENCL", 
+              "full_path": "/usr/lib/aarch64-linux-gnu/libOpenCL.so", 
+              "include_name": "CL/opencl.h", 
+              "limit_recursion_dir_search": {
+                "linux": 4, 
+                "win": 4
+              }, 
+              "path_bin": "/usr/bin", 
+              "path_include": "/usr/include", 
+              "path_lib": "/usr/lib/aarch64-linux-gnu", 
+              "skip_path": "yes", 
+              "soft_file": {
+                "linux": "libOpenCL.so", 
+                "win": "OpenCL.lib"
+              }, 
+              "soft_path_example": {
+                "linux": "/usr/lib/libOpenCL.so", 
+                "win": "C:\\Program Files (x86)\\Intel\\OpenCL SDK\\4.6\\lib\\x64\\OpenCL.lib"
+              }, 
+              "static_lib": "libOpenCL.so"
+            }, 
+            "dict": {
+              "customize": {
+                "check_that_exists": "yes", 
+                "ck_version": 10, 
+                "dynamic_lib": "libOpenCL.so", 
+                "env_prefix": "CK_ENV_LIB_OPENCL", 
+                "full_path": "/usr/lib/aarch64-linux-gnu/libOpenCL.so", 
+                "include_name": "CL/opencl.h", 
+                "limit_recursion_dir_search": {
+                  "linux": 4, 
+                  "win": 4
+                }, 
+                "path_bin": "/usr/bin", 
+                "path_include": "/usr/include", 
+                "path_lib": "/usr/lib/aarch64-linux-gnu", 
+                "skip_path": "yes", 
+                "soft_file": {
+                  "linux": "libOpenCL.so", 
+                  "win": "OpenCL.lib"
+                }, 
+                "soft_path_example": {
+                  "linux": "/usr/lib/libOpenCL.so", 
+                  "win": "C:\\Program Files (x86)\\Intel\\OpenCL SDK\\4.6\\lib\\x64\\OpenCL.lib"
+                }, 
+                "static_lib": "libOpenCL.so"
+              }, 
+              "data_name": "OpenCL library", 
+              "deps": {}, 
+              "env": {
+                "CK_ENV_LIB_OPENCL": "/usr", 
+                "CK_ENV_LIB_OPENCL_DYNAMIC_NAME": "libOpenCL.so", 
+                "CK_ENV_LIB_OPENCL_INCLUDE_NAME": "CL/opencl.h", 
+                "CK_ENV_LIB_OPENCL_STATIC_NAME": "libOpenCL.so"
+              }, 
+              "env_script": "env.sh", 
+              "setup": {
+                "host_os_uoa": "4258b5fe54828a50", 
+                "target_os_bits": "64", 
+                "target_os_uoa": "4258b5fe54828a50", 
+                "version": "", 
+                "version_split": []
+              }, 
+              "soft_alias": "lib.opencl", 
+              "soft_uoa": "6eb9a57038688ad3", 
+              "tags": [
+                "64bits", 
+                "host-os-linux-64", 
+                "lib", 
+                "opencl", 
+                "target-os-linux-64"
+              ]
+            }, 
+            "local": "yes", 
+            "name": "OpenCL library", 
+            "num_entries": 1, 
+            "sort": 20, 
+            "tags": "lib,opencl", 
+            "uoa": "b657cfe4e7cba9da"
+          }
+        }, 
+        "gpgpu_id": {
+          "gpgpu_device_id": "0", 
+          "gpgpu_platform_id": "0"
+        }, 
+        "gpgpu_misc": {
+          "- max work-item size #0": "256", 
+          "- max work-item size #1": "256", 
+          "- max work-item size #2": "256", 
+          "address bits": "64", 
+          "hardware (device) version": "OpenCL 1.2 v1.r13p0-00rel0-git(a4271c9).31ba04af2d3c01618138bef3aed66c2c", 
+          "opencl c version": "OpenCL C 1.2 v1.r13p0-00rel0-git(a4271c9).31ba04af2d3c01618138bef3aed66c2c", 
+          "parallel compute units": "4", 
+          "software (driver) version": "1.2", 
+          "unified memory": "yes", 
+          "work-item dimensions": "3"
+        }
+      }
+    ], 
+    "number_of_selected_compiler_flags": 0, 
+    "platform": {
+      "cpu": {
+        "all_freqs": {
+          "0": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "1": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "2": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "3": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "4": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000, 
+            1608000, 
+            1800000
+          ], 
+          "5": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000, 
+            1608000, 
+            1800000
+          ]
+        }, 
+        "cpu_abi": "", 
+        "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+        "current_freq": {
+          "0": 1416.0, 
+          "1": 1416.0, 
+          "2": 1416.0, 
+          "3": 1416.0, 
+          "4": 1800.0, 
+          "5": 1800.0
+        }, 
+        "max_freq": {
+          "0": 1416.0, 
+          "1": 1416.0, 
+          "2": 1416.0, 
+          "3": 1416.0, 
+          "4": 1800.0, 
+          "5": 1800.0
+        }, 
+        "name": "", 
+        "num_proc": "6", 
+        "sub_name": "", 
+        "workload_automation": {
+          "device_config": {
+            "core_clusters": [
+              0, 
+              0, 
+              0, 
+              0, 
+              1, 
+              1
+            ], 
+            "core_names": [
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd08-2", 
+              "0x41-8-0x0-0xd08-2"
+            ]
+          }
+        }
+      }, 
+      "cpu_misc": {
+        "0": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "0"
+        }, 
+        "1": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "1"
+        }, 
+        "2": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "2", 
+            "2", 
+            "2", 
+            "2", 
+            "2", 
+            "2"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "2"
+        }, 
+        "3": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "3", 
+            "3", 
+            "3", 
+            "3", 
+            "3", 
+            "3"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "3"
+        }, 
+        "4": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "4"
+        }, 
+        "5": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "Serial": "0000000000000000", 
+          "all_freqs": [
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "5"
+        }
+      }, 
+      "cpu_new_format": "yes", 
+      "cpu_unique": [
+        {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "0"
+        }, 
+        {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "4"
+        }
+      ], 
+      "gpu": {
+        "name": "", 
+        "vendor": ""
+      }, 
+      "gpu_misc": {}, 
+      "os": {
+        "abi": "aarch64", 
+        "bits": "64", 
+        "ck_os_base_uoa": "", 
+        "ck_os_uoa": "linux-64", 
+        "name": "Ubuntu 16.04.4 LTS", 
+        "name_long": "Linux-4.4.77-aarch64-with-Ubuntu-16.04-xenial", 
+        "name_short": "Linux 4.4.77", 
+        "serial_number": ""
+      }, 
+      "os_misc": {}, 
+      "platform": {
+        "model": "Rockchip RK3399 Firefly Board (Linux Opensource)\u0000", 
+        "name": "Rockchip (Rockchip RK3399 Firefly Board (Linux Opensource)\u0000)", 
+        "vendor": "Rockchip"
+      }, 
+      "platform_misc": {}
+    }, 
+    "statistical_repetitions": 1
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "characteristics_list": [
+    {
+      "run": {
+        "execution_time": 3.754021406173706, 
+        "execution_time_classify": 3.754021406173706, 
+        "execution_time_load_image": 0.031881093978881836, 
+        "execution_time_model_init": 27.56683921813965, 
+        "execution_time_mx_io": 36.85145115852356, 
+        "execution_time_transform_image": 0.005132198333740234, 
+        "execution_time_with_module": 94.54398202896118, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.754021406173706
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.8629233837127686, 
+        "execution_time_classify": 3.8629233837127686, 
+        "execution_time_load_image": 0.036691904067993164, 
+        "execution_time_model_init": 27.43954610824585, 
+        "execution_time_mx_io": 38.01010608673096, 
+        "execution_time_transform_image": 0.0051727294921875, 
+        "execution_time_with_module": 93.7868230342865, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.8629233837127686
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.812852954864502, 
+        "execution_time_classify": 3.812852954864502, 
+        "execution_time_load_image": 0.032186031341552734, 
+        "execution_time_model_init": 27.463313579559326, 
+        "execution_time_mx_io": 37.66695952415466, 
+        "execution_time_transform_image": 0.005143880844116211, 
+        "execution_time_with_module": 93.61563682556152, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.812852954864502
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.6815491199493406, 
+        "execution_time_classify": 3.6815491199493406, 
+        "execution_time_load_image": 0.03202390670776367, 
+        "execution_time_model_init": 27.415562391281128, 
+        "execution_time_mx_io": 34.42940092086792, 
+        "execution_time_transform_image": 0.005120754241943359, 
+        "execution_time_with_module": 94.48041796684265, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.6815491199493406
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.649852085113525, 
+        "execution_time_classify": 3.649852085113525, 
+        "execution_time_load_image": 0.03685784339904785, 
+        "execution_time_model_init": 27.545473337173462, 
+        "execution_time_mx_io": 35.748108863830566, 
+        "execution_time_transform_image": 0.005643606185913086, 
+        "execution_time_with_module": 94.61270380020142, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.649852085113525
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.9067455291748048, 
+        "execution_time_classify": 3.9067455291748048, 
+        "execution_time_load_image": 0.031981468200683594, 
+        "execution_time_model_init": 27.434970140457153, 
+        "execution_time_mx_io": 34.359041690826416, 
+        "execution_time_transform_image": 0.005646944046020508, 
+        "execution_time_with_module": 95.5564239025116, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.9067455291748048
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.7375672817230225, 
+        "execution_time_classify": 3.7375672817230225, 
+        "execution_time_load_image": 0.032171010971069336, 
+        "execution_time_model_init": 27.47510051727295, 
+        "execution_time_mx_io": 33.22733449935913, 
+        "execution_time_transform_image": 0.0053670406341552734, 
+        "execution_time_with_module": 93.9905149936676, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.7375672817230225
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.7939852237701417, 
+        "execution_time_classify": 3.7939852237701417, 
+        "execution_time_load_image": 0.0320744514465332, 
+        "execution_time_model_init": 27.4215829372406, 
+        "execution_time_mx_io": 37.45953607559204, 
+        "execution_time_transform_image": 0.005566596984863281, 
+        "execution_time_with_module": 92.9933078289032, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.7939852237701417
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.790083169937134, 
+        "execution_time_classify": 3.790083169937134, 
+        "execution_time_load_image": 0.03184962272644043, 
+        "execution_time_model_init": 27.345847129821777, 
+        "execution_time_mx_io": 33.55350708961487, 
+        "execution_time_transform_image": 0.005541324615478516, 
+        "execution_time_with_module": 94.83795499801636, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.790083169937134
+      }
+    }, 
+    {
+      "run": {
+        "execution_time": 3.829041528701782, 
+        "execution_time_classify": 3.829041528701782, 
+        "execution_time_load_image": 0.03186750411987305, 
+        "execution_time_model_init": 27.906124114990234, 
+        "execution_time_mx_io": 33.158961057662964, 
+        "execution_time_transform_image": 0.005529880523681641, 
+        "execution_time_with_module": 95.05523109436035, 
+        "repeat": 1, 
+        "return_code": 0, 
+        "run_success": "yes", 
+        "run_success_bool": true, 
+        "total_execution_time": 3.829041528701782
+      }
+    }
+  ], 
+  "choices": {
+    "cmd_key": "classify", 
+    "compile_type": "dynamic", 
+    "compiler_flags": {}, 
+    "cpu_freq": "max", 
+    "data_uoa": "request-mxnet-inference", 
+    "dataset_file": "snake.jpg", 
+    "dataset_uoa": "image-jpeg-dnn-snake-224", 
+    "device_id": "", 
+    "energy": "no", 
+    "env": {
+      "CK_BATCH_SIZE": 1, 
+      "CK_CPU_FREQUENCY": "max", 
+      "CK_DATASET_FILENAME": "snake.jpg", 
+      "CK_GPU_FREQUENCY": "max", 
+      "CK_MXNET_MODEL": "mobilenet", 
+      "STAT_REPEAT": 5
+    }, 
+    "flags": "-O3", 
+    "gpu_freq": "max", 
+    "host_os": "linux-64", 
+    "module_uoa": "b0ac08fe1d3c2615", 
+    "no_compile": "no", 
+    "no_state_check": "yes", 
+    "repeat": 1, 
+    "skip_calibration": "yes", 
+    "skip_print_timers": "yes", 
+    "target": "", 
+    "target_os": "linux-64", 
+    "target_os_bits": "64"
+  }, 
+  "choices_order": [
+    "##choices#env#CK_BATCH_SIZE"
+  ], 
+  "features": {
+    "compiler_version": {
+      "list": [], 
+      "raw": "", 
+      "str": ""
+    }, 
+    "dataset": {
+      "compression": "", 
+      "format": "JPEG", 
+      "height": 168, 
+      "mode": "RGB", 
+      "raw_info": {
+        "dpi": [
+          96, 
+          96
+        ], 
+        "jfif": 257, 
+        "jfif_density": [
+          96, 
+          96
+        ], 
+        "jfif_unit": 1, 
+        "jfif_version": [
+          1, 
+          1
+        ]
+      }, 
+      "total_size": 5636, 
+      "width": 224, 
+      "xdpi": 96, 
+      "ydpi": 96
+    }, 
+    "number_of_selected_compiler_flags": 0, 
+    "platform": {
+      "cpu": {
+        "all_freqs": {
+          "0": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "1": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "2": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "3": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000
+          ], 
+          "4": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000, 
+            1608000, 
+            1800000
+          ], 
+          "5": [
+            408000, 
+            600000, 
+            816000, 
+            1008000, 
+            1200000, 
+            1416000, 
+            1608000, 
+            1800000
+          ]
+        }, 
+        "cpu_abi": "", 
+        "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+        "current_freq": {
+          "0": 1416.0, 
+          "1": 1416.0, 
+          "2": 1416.0, 
+          "3": 1416.0, 
+          "4": 1800.0, 
+          "5": 1800.0
+        }, 
+        "max_freq": {
+          "0": 1416.0, 
+          "1": 1416.0, 
+          "2": 1416.0, 
+          "3": 1416.0, 
+          "4": 1800.0, 
+          "5": 1800.0
+        }, 
+        "name": "", 
+        "num_proc": "6", 
+        "sub_name": "", 
+        "workload_automation": {
+          "device_config": {
+            "core_clusters": [
+              0, 
+              0, 
+              0, 
+              0, 
+              1, 
+              1
+            ], 
+            "core_names": [
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd03-4", 
+              "0x41-8-0x0-0xd08-2", 
+              "0x41-8-0x0-0xd08-2"
+            ]
+          }
+        }
+      }, 
+      "cpu_misc": {
+        "0": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "0"
+        }, 
+        "1": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "1"
+        }, 
+        "2": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "2", 
+            "2", 
+            "2", 
+            "2", 
+            "2", 
+            "2"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "2"
+        }, 
+        "3": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "3", 
+            "3", 
+            "3", 
+            "3", 
+            "3", 
+            "3"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "3"
+        }, 
+        "4": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "4"
+        }, 
+        "5": {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "Serial": "0000000000000000", 
+          "all_freqs": [
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "5"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "5"
+        }
+      }, 
+      "cpu_new_format": "yes", 
+      "cpu_unique": [
+        {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd03", 
+          "CPU revision": "4", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd03-4", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1416.0, 
+          "max_freq": 1416.0, 
+          "new_format": "yes", 
+          "processor": "0"
+        }, 
+        {
+          "BogoMIPS": "48.00", 
+          "CPU architecture": "8", 
+          "CPU implementer": "0x41", 
+          "CPU part": "0xd08", 
+          "CPU revision": "2", 
+          "CPU variant": "0x0", 
+          "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "all_freqs": [
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4", 
+            "4"
+          ], 
+          "ck_cpu_name": "0x41-8-0x0-0xd08-2", 
+          "cpu_abi": "", 
+          "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+          "cur_freq": 1800.0, 
+          "max_freq": 1800.0, 
+          "new_format": "yes", 
+          "processor": "4"
+        }
+      ], 
+      "gpu": {
+        "name": "", 
+        "vendor": ""
+      }, 
+      "gpu_misc": {}, 
+      "os": {
+        "abi": "aarch64", 
+        "bits": "64", 
+        "ck_os_base_uoa": "", 
+        "ck_os_uoa": "linux-64", 
+        "name": "Ubuntu 16.04.4 LTS", 
+        "name_long": "Linux-4.4.77-aarch64-with-Ubuntu-16.04-xenial", 
+        "name_short": "Linux 4.4.77", 
+        "serial_number": ""
+      }, 
+      "os_misc": {}, 
+      "platform": {
+        "model": "Rockchip RK3399 Firefly Board (Linux Opensource)\u0000", 
+        "name": "Rockchip (Rockchip RK3399 Firefly Board (Linux Opensource)\u0000)", 
+        "vendor": "Rockchip"
+      }, 
+      "platform_misc": {}
+    }, 
+    "statistical_repetitions": 10
+  }
+}
